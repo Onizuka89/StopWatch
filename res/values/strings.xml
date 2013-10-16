@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="start_or_stop">Start/Stop</string>
+</resources>
